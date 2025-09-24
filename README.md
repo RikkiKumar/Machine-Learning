@@ -7,5 +7,5 @@ A minimal, well-structured starter repository for machine learning experiments. 
 - Example PyTorch model & training loop
 - Scikit-learn quick example
 - Unit test template
-<br>
-on Python
+<br> With the help of python.
+
